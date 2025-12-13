@@ -18,3 +18,12 @@ figure {
 .recycling-tiles {
   grid-template-rows: 1fr 1fr;
 }
+body {
+  background-image: url(./images/leaves.webp);
+}
+nav, main, div, aside {
+  background-color: rgb(180, 180, 200);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
