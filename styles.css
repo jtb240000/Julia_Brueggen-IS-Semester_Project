@@ -3,6 +3,11 @@ figcaption {
   position: absolute;
   z-index: 1;
   top: 0;
+  background-color: rgba(250, 245, 240, 0.5);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  color: rgb(15, 10, 5);
 }
 figure {
   position: relative;
