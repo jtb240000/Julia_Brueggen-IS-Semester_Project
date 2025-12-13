@@ -11,3 +11,10 @@ figcaption {
 figure {
   position: relative;
 }
+.recycling-tiles, .stuff, .tips {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.recycling-tiles {
+  grid-template-rows: 1fr 1fr;
+}
