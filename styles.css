@@ -2,3 +2,6 @@ figcaption {
   display: block;
   position: absolute;
 }
+figure {
+  position: relative;
+}
