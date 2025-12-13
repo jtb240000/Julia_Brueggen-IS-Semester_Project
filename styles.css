@@ -42,6 +42,11 @@ figure {
 .recycling-tiles {
   grid-template-rows: 1fr 1fr;
 }
+.learn-tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
 body {
   background-image: url(./images/leaves.webp);
   font-family: 'Rethink Sans', sans-serif;
