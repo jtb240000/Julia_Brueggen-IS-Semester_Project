@@ -47,13 +47,19 @@ figure {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
 }
+.learn-tile, .recycling-tile, .thing, .tip, .idea {
+  background-color: rgb(250, 245, 240);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
 body {
   background-image: url(./images/leaves.webp);
   font-family: 'Rethink Sans', sans-serif;
   font-weight: 600;
 }
 nav, main, div, aside {
-  background-color: rgb(180, 180, 200);
+  background-color: rgb(100, 150, 200);
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
